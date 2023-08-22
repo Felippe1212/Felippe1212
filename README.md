@@ -5,7 +5,7 @@
 
 
 
-# My STATS :
+
 
 
 [![](https://raw.githubusercontent.com/Felippe1212/Felippe1212/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
