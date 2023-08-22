@@ -1,5 +1,6 @@
 ## Felippe Gabriel
 
+![](https://raw.githubusercontent.com/Felippe1212/Felippe1212/master/profile-summary-card-output/great_gatsby/0-profile-details.svg)
 <div>
   
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Felippe1212&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
